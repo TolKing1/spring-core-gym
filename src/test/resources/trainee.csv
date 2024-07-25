@@ -1,0 +1,4 @@
+firstName,lastName,password,isActive,userId,dateOfBirth,address
+John,Doe,password001,true,1,1990-03-25,12 Apple St
+Bob,White,passw0rd999,false,2,1985-06-10,34 Cherry St
+

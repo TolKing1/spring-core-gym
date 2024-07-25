@@ -1,0 +1,5 @@
+traineeId,trainerId,trainingType,date,duration
+1,2,Cardio,2024-07-17,3600
+2,3,Strength Training,2024-07-18,4500
+3,4,Yoga,2024-07-19,5400
+4,1,HIIT,2024-07-20,3000

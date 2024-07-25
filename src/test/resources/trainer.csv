@@ -1,0 +1,4 @@
+firstName,lastName,password,isActive,userId,specialization
+John,Doe,password123,true,1,Strength
+John,Doe,passw0rd,false,2,Cardio
+

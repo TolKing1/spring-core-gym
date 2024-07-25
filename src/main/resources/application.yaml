@@ -1,0 +1,13 @@
+csv:
+  training: /main/resources/training.csv
+  trainer: /main/resources/trainer.csv
+  trainee: /main/resources/trainee.csv
+---
+spring:
+  config:
+    activate:
+      on-profile: test
+csv:
+  training: /test/resources/training.csv
+  trainer: /test/resources/trainer.csv
+  trainee: /test/resources/trainee.csv

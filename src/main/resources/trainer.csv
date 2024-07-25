@@ -1,0 +1,6 @@
+firstName,lastName,password,isActive,userId,specialization
+John,Doe,password123,true,1,Strength
+John,Doe,passw0rd,false,2,Cardio
+Emily,Johnson,password789,true,3,Yoga
+Michael,Brown,password456,true,4,Pilates
+Sarah,Wilson,password101,false,5,HIIT
