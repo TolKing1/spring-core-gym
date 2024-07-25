@@ -1,8 +1,6 @@
 package org.tolking.springcore.util;
 
 public class Constants {
-    public static final String USER_NOT_FOUND_MSG = "User with id = {} not found";
-
     public static final String TRAINEE_ID = "traineeId";
     public static final String TRAINER_ID = "trainerId";
     public static final String DURATION = "duration";
